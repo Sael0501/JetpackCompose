@@ -1,4 +1,4 @@
-package com.example.jetpackcompose.components
+package com.example.jetpackcompose.components.layouts
 
 import androidx.compose.foundation.horizontalScroll
 import androidx.compose.foundation.layout.Row
