@@ -52,6 +52,7 @@ dependencies {
     implementation(libs.constraint.layout)
     implementation(libs.coil)
     implementation(libs.coil.network)
+    implementation (libs.lottie.compose)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
